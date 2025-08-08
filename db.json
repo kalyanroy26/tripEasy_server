@@ -1,0 +1,4072 @@
+{
+  "register": [
+    {
+      "id": "6f0b",
+      "username": "harsha",
+      "password": "4212",
+      "email": "harsha@gmail.com",
+      "mobile": "7997937529"
+    },
+    {
+      "id": "f67d",
+      "username": "Kalyan",
+      "password": "4212",
+      "email": "kalyanroy8143@gmail.com",
+      "mobile": "6302525995"
+    },
+    {
+      "id": "0de9",
+      "username": "naveen",
+      "password": "4212",
+      "email": "naveen@gmail.com",
+      "mobile": "9182337805"
+    },
+    {
+      "id": "79c1",
+      "username": "teja",
+      "password": "4212",
+      "email": "teja@gmail.com",
+      "mobile": "7878598985"
+    },
+    {
+      "id": "7654",
+      "username": "anjali",
+      "password": "4212",
+      "email": "anjali@gmail.com",
+      "mobile": "6302525995"
+    }
+  ],
+  "buses": [
+    {
+      "id": "1",
+      "busName": "Rajdhani Deluxe",
+      "type": "AC Sleeper",
+      "travels": "SRS Travels",
+      "rating": 4.5,
+      "departure": "22:00",
+      "arrival": "06:00",
+      "from": "Hyderabad",
+      "to": "Bangalore",
+      "duration": "8h 00m",
+      "price": 950,
+      "vehicleNumber": "TS 09 AB 1234",
+      "amenities": [
+        "WiFi",
+        "Water Bottle",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "booked"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "booked"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "booked"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "booked"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "booked"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "booked"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "busName": "MetroLink",
+      "type": "Non-AC Seater",
+      "travels": "Orange Travels",
+      "rating": 3.9,
+      "departure": "17:30",
+      "arrival": "02:00",
+      "from": "Chennai",
+      "to": "Coimbatore",
+      "duration": "8h 30m",
+      "price": 600,
+      "vehicleNumber": "TN 01 AC 5678",
+      "amenities": [
+        "Reading Light",
+        "Blanket"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "booked"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "booked"
+        },
+        {
+          "number": "2C",
+          "status": "booked"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "booked"
+        },
+        {
+          "number": "3D",
+          "status": "available"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "booked"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "booked"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "booked"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "busName": "KSRTC Express",
+      "type": "Non-AC Sleeper",
+      "travels": "KSRTC",
+      "rating": 3.8,
+      "departure": "20:00",
+      "arrival": "04:00",
+      "from": "Bangalore",
+      "to": "Hyderabad",
+      "duration": "8h 00m",
+      "price": 500,
+      "vehicleNumber": "KA 51 BD 9012",
+      "amenities": [
+        "Water Bottle"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "booked"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "booked"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "booked"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "booked"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "booked"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "booked"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "busName": "Volvo MultiAxle",
+      "type": "AC Seater",
+      "travels": "Raj Travels",
+      "rating": 4.2,
+      "departure": "19:45",
+      "arrival": "04:15",
+      "from": "Mumbai",
+      "to": "Pune",
+      "duration": "8h 30m",
+      "price": 750,
+      "vehicleNumber": "MH 01 XY 3456",
+      "amenities": [
+        "TV",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "booked"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "booked"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "available"
+        },
+        {
+          "number": "4A",
+          "status": "booked"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "booked"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "booked"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "busName": "Greenline Express",
+      "type": "AC Sleeper",
+      "travels": "Greenline Travels",
+      "rating": 4.1,
+      "departure": "21:15",
+      "arrival": "05:15",
+      "from": "Pune",
+      "to": "Nagpur",
+      "duration": "8h 00m",
+      "price": 850,
+      "vehicleNumber": "MH 12 DE 7890",
+      "amenities": [
+        "WiFi",
+        "Blanket"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "booked"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "booked"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "booked"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "booked"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "busName": "Sharma Night Coach",
+      "type": "Non-AC Sleeper",
+      "travels": "Sharma Travels",
+      "rating": 3.6,
+      "departure": "20:30",
+      "arrival": "06:00",
+      "from": "Delhi",
+      "to": "Jaipur",
+      "duration": "9h 30m",
+      "price": 480,
+      "vehicleNumber": "DL 05 XA 4321",
+      "amenities": [
+        "Water Bottle",
+        "Blanket"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "booked"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "booked"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "booked"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "booked"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "busName": "NightXpress",
+      "type": "AC Seater",
+      "travels": "VRL Travels",
+      "rating": 4.4,
+      "departure": "18:00",
+      "arrival": "02:30",
+      "from": "Nagpur",
+      "to": "Bhopal",
+      "duration": "8h 30m",
+      "price": 820,
+      "vehicleNumber": "MP 04 ZB 9876",
+      "amenities": [
+        "Charging Point",
+        "WiFi"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "booked"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "booked"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "booked"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "booked"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "booked"
+        },
+        {
+          "number": "6A",
+          "status": "booked"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "busName": "SkyBus Elite",
+      "type": "AC Sleeper",
+      "travels": "KPN Travels",
+      "rating": 4.7,
+      "departure": "23:00",
+      "arrival": "07:00",
+      "from": "Coimbatore",
+      "to": "Chennai",
+      "duration": "8h 00m",
+      "price": 980,
+      "vehicleNumber": "TN 37 ZX 1234",
+      "amenities": [
+        "WiFi",
+        "Water Bottle",
+        "Blanket"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "booked"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "booked"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "booked"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "booked"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "booked"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "booked"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "busName": "CitySprinter",
+      "type": "Non-AC Seater",
+      "travels": "Parveen Travels",
+      "rating": 3.7,
+      "departure": "19:00",
+      "arrival": "03:30",
+      "from": "Bhopal",
+      "to": "Nagpur",
+      "duration": "8h 30m",
+      "price": 520,
+      "vehicleNumber": "MP 04 FG 5432",
+      "amenities": [
+        "Reading Light"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "booked"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "booked"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "booked"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "available"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "booked"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "booked"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "booked"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "busName": "InterCity Rider",
+      "type": "AC Sleeper",
+      "travels": "SRM Travels",
+      "rating": 4.3,
+      "departure": "21:30",
+      "arrival": "06:00",
+      "from": "Hyderabad",
+      "to": "Chennai",
+      "duration": "8h 30m",
+      "price": 920,
+      "vehicleNumber": "TS 09 XY 6789",
+      "amenities": [
+        "WiFi",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "booked"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "booked"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "booked"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "booked"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "booked"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "booked"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "busName": "Express Cruiser",
+      "type": "Non-AC Sleeper",
+      "travels": "Raj Travels",
+      "rating": 3.9,
+      "departure": "20:15",
+      "arrival": "04:15",
+      "from": "Mumbai",
+      "to": "Pune",
+      "duration": "8h 00m",
+      "price": 620,
+      "vehicleNumber": "MH 01 AB 9876",
+      "amenities": [
+        "Water Bottle"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "booked"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "booked"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "booked"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "booked"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "busName": "ComfortLine",
+      "type": "AC Seater",
+      "travels": "Kallada Travels",
+      "rating": 4,
+      "departure": "19:30",
+      "arrival": "03:30",
+      "from": "Jaipur",
+      "to": "Delhi",
+      "duration": "8h 00m",
+      "price": 780,
+      "vehicleNumber": "RJ 14 GH 5678",
+      "amenities": [
+        "TV",
+        "WiFi",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "booked"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "booked"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "booked"
+        },
+        {
+          "number": "3D",
+          "status": "available"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "booked"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "booked"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "busName": "FastTrack Travels",
+      "type": "AC Sleeper",
+      "travels": "Greenline Travels",
+      "rating": 4.6,
+      "departure": "22:45",
+      "arrival": "06:45",
+      "from": "Delhi",
+      "to": "Mumbai",
+      "duration": "8h 00m",
+      "price": 990,
+      "vehicleNumber": "DL 01 MN 1234",
+      "amenities": [
+        "WiFi",
+        "Water Bottle"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "booked"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "booked"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "booked"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "booked"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "booked"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "booked"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "busName": "Comfort Cruiser",
+      "type": "AC Seater",
+      "travels": "SRM Travels",
+      "rating": 4.2,
+      "departure": "20:00",
+      "arrival": "04:30",
+      "from": "Bangalore",
+      "to": "Chennai",
+      "duration": "8h 30m",
+      "price": 860,
+      "vehicleNumber": "KA 02 OP 5678",
+      "amenities": [
+        "Blanket",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "booked"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "booked"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "booked"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "available"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "booked"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "booked"
+        },
+        {
+          "number": "6D",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "busName": "Luxury Liner",
+      "type": "AC Sleeper",
+      "travels": "SRS Travels",
+      "rating": 4.8,
+      "departure": "23:30",
+      "arrival": "07:30",
+      "from": "Mumbai",
+      "to": "Bangalore",
+      "duration": "8h 00m",
+      "price": 1200,
+      "vehicleNumber": "MH 03 ST 9012",
+      "amenities": [
+        "WiFi",
+        "Water Bottle",
+        "Charging Point",
+        "Blanket"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "booked"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "booked"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "booked"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "busName": "City Hopper",
+      "type": "Non-AC Seater",
+      "travels": "VRL Travels",
+      "rating": 3.5,
+      "departure": "18:30",
+      "arrival": "04:30",
+      "from": "Pune",
+      "to": "Mumbai",
+      "duration": "10h 00m",
+      "price": 550,
+      "vehicleNumber": "MH 14 AB 1234",
+      "amenities": [
+        "Reading Light"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "booked"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "booked"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "booked"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "booked"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "booked"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "busName": "Speed King",
+      "type": "AC Seater",
+      "travels": "Kallada Travels",
+      "rating": 4.1,
+      "departure": "19:00",
+      "arrival": "03:00",
+      "from": "Bangalore",
+      "to": "Goa",
+      "duration": "8h 00m",
+      "price": 890,
+      "vehicleNumber": "KA 05 CD 5678",
+      "amenities": [
+        "TV",
+        "Charging Point",
+        "Water Bottle"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "booked"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "booked"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "available"
+        },
+        {
+          "number": "4A",
+          "status": "booked"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "booked"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "booked"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "busName": "Royal Coach",
+      "type": "AC Sleeper",
+      "travels": "KPN Travels",
+      "rating": 4.5,
+      "departure": "22:00",
+      "arrival": "06:00",
+      "from": "Goa",
+      "to": "Bangalore",
+      "duration": "8h 00m",
+      "price": 1050,
+      "vehicleNumber": "GA 02 EF 9012",
+      "amenities": [
+        "WiFi",
+        "Blanket",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "booked"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "booked"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "booked"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "booked"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "booked"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "busName": "Highway Star",
+      "type": "Non-AC Sleeper",
+      "travels": "SRS Travels",
+      "rating": 3.9,
+      "departure": "21:00",
+      "arrival": "07:00",
+      "from": "Mumbai",
+      "to": "Ahmedabad",
+      "duration": "10h 00m",
+      "price": 680,
+      "vehicleNumber": "MH 04 XY 1234",
+      "amenities": [
+        "Water Bottle"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "booked"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "booked"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "booked"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "booked"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "booked"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "booked"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "busName": "Western Express",
+      "type": "AC Seater",
+      "travels": "VRL Travels",
+      "rating": 4,
+      "departure": "20:30",
+      "arrival": "06:30",
+      "from": "Ahmedabad",
+      "to": "Mumbai",
+      "duration": "10h 00m",
+      "price": 720,
+      "vehicleNumber": "GJ 01 AB 5678",
+      "amenities": [
+        "Charging Point",
+        "WiFi"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "booked"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "booked"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "booked"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "booked"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "booked"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "busName": "Konkan Voyager",
+      "type": "AC Seater",
+      "travels": "Kallada Travels",
+      "rating": 4.3,
+      "departure": "21:45",
+      "arrival": "06:45",
+      "from": "Goa",
+      "to": "Pune",
+      "duration": "9h 00m",
+      "price": 880,
+      "vehicleNumber": "GA 01 MN 5678",
+      "amenities": [
+        "TV",
+        "WiFi"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "booked"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "booked"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "booked"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "booked"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "busName": "Deccan Queen",
+      "type": "AC Sleeper",
+      "travels": "Raj Travels",
+      "rating": 4.6,
+      "departure": "22:15",
+      "arrival": "06:15",
+      "from": "Pune",
+      "to": "Hyderabad",
+      "duration": "8h 00m",
+      "price": 1000,
+      "vehicleNumber": "MH 14 PQ 9012",
+      "amenities": [
+        "WiFi",
+        "Water Bottle",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "booked"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "booked"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "booked"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "booked"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "busName": "Konkan Cruiser",
+      "type": "AC Seater",
+      "travels": "VRL Travels",
+      "rating": 4.2,
+      "departure": "19:00",
+      "arrival": "03:00",
+      "from": "Pune",
+      "to": "Goa",
+      "duration": "8h 00m",
+      "price": 850,
+      "vehicleNumber": "MH 12 RS 5678",
+      "amenities": [
+        "TV",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "booked"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "booked"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "booked"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "booked"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "booked"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "busName": "Coastal Runner",
+      "type": "Non-AC Sleeper",
+      "travels": "Greenline Travels",
+      "rating": 3.7,
+      "departure": "21:30",
+      "arrival": "06:30",
+      "from": "Goa",
+      "to": "Mumbai",
+      "duration": "9h 00m",
+      "price": 700,
+      "vehicleNumber": "GA 02 TU 1234",
+      "amenities": [
+        "Water Bottle",
+        "Blanket"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "booked"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "booked"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "booked"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "booked"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "busName": "Andhra Express",
+      "type": "AC Seater",
+      "travels": "APSRTC",
+      "rating": 4.1,
+      "departure": "21:00",
+      "arrival": "06:00",
+      "from": "Hyderabad",
+      "to": "Vijayawada",
+      "duration": "9h 00m",
+      "price": 800,
+      "vehicleNumber": "AP 28 AZ 5678",
+      "amenities": [
+        "Water Bottle",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "booked"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "booked"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "booked"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "available"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "booked"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "booked"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "busName": "Vishaka Travels",
+      "type": "Non-AC Sleeper",
+      "travels": "VRL Travels",
+      "rating": 3.8,
+      "departure": "20:30",
+      "arrival": "07:30",
+      "from": "Vijayawada",
+      "to": "Vizag",
+      "duration": "11h 00m",
+      "price": 650,
+      "vehicleNumber": "AP 31 CD 9012",
+      "amenities": [
+        "Blanket"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "booked"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "booked"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "booked"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "booked"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "booked"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "booked"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "busName": "Tirumala Express",
+      "type": "AC Sleeper",
+      "travels": "KPN Travels",
+      "rating": 4.5,
+      "departure": "22:00",
+      "arrival": "06:00",
+      "from": "Bangalore",
+      "to": "Tirupathi",
+      "duration": "8h 00m",
+      "price": 950,
+      "vehicleNumber": "KA 05 MN 1234",
+      "amenities": [
+        "WiFi",
+        "Water Bottle",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "booked"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "available"
+        },
+        {
+          "number": "S4",
+          "status": "booked"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "booked"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "available"
+        },
+        {
+          "number": "S11",
+          "status": "booked"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "booked"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "booked"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "busName": "Indra Deluxe",
+      "type": "AC Sleeper",
+      "travels": "APSRTC",
+      "rating": 4.4,
+      "departure": "23:00",
+      "arrival": "07:00",
+      "from": "Vizag",
+      "to": "Hyderabad",
+      "duration": "8h 00m",
+      "price": 1100,
+      "vehicleNumber": "AP 32 XZ 1234",
+      "amenities": [
+        "WiFi",
+        "Blanket",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "booked"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "booked"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "booked"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "busName": "Orange Classic",
+      "type": "AC Seater",
+      "travels": "Orange Travels",
+      "rating": 4,
+      "departure": "20:00",
+      "arrival": "05:00",
+      "from": "Hyderabad",
+      "to": "Vijayawada",
+      "duration": "9h 00m",
+      "price": 750,
+      "vehicleNumber": "TS 09 AD 5678",
+      "amenities": [
+        "TV",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "booked"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "booked"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "booked"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "booked"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "booked"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "busName": "Tirupati Darshan",
+      "type": "Non-AC Seater",
+      "travels": "VRL Travels",
+      "rating": 4.3,
+      "departure": "21:30",
+      "arrival": "06:30",
+      "from": "Hyderabad",
+      "to": "Tirupathi",
+      "duration": "9h 00m",
+      "price": 600,
+      "vehicleNumber": "TS 08 DE 9012",
+      "amenities": [
+        "Reading Light",
+        "Water Bottle"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "booked"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "booked"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "booked"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "booked"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "booked"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "busName": "Southern Comfort",
+      "type": "AC Sleeper",
+      "travels": "SRS Travels",
+      "rating": 4.6,
+      "departure": "22:00",
+      "arrival": "07:00",
+      "from": "Bangalore",
+      "to": "Tirupathi",
+      "duration": "9h 00m",
+      "price": 1050,
+      "vehicleNumber": "KA 01 RS 5678",
+      "amenities": [
+        "WiFi",
+        "Blanket",
+        "Charging Point"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "booked"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "booked"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "available"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "booked"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "available"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "booked"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "available"
+        },
+        {
+          "number": "S23",
+          "status": "booked"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "busName": "Telangana Express",
+      "type": "AC Seater",
+      "travels": "TSRTC",
+      "rating": 4.2,
+      "departure": "20:00",
+      "arrival": "05:00",
+      "from": "Hyderabad",
+      "to": "Vijayawada",
+      "duration": "9h 00m",
+      "price": 820,
+      "vehicleNumber": "TS 02 EF 1234",
+      "amenities": [
+        "TV",
+        "WiFi"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "available"
+        },
+        {
+          "number": "1D",
+          "status": "booked"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "available"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "booked"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "available"
+        },
+        {
+          "number": "3D",
+          "status": "booked"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "available"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "booked"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "available"
+        },
+        {
+          "number": "6B",
+          "status": "booked"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "busName": "Coastal Cruzer",
+      "type": "AC Sleeper",
+      "travels": "VRL Travels",
+      "rating": 4.1,
+      "departure": "21:00",
+      "arrival": "08:00",
+      "from": "Vizag",
+      "to": "Tirupathi",
+      "duration": "11h 00m",
+      "price": 1050,
+      "vehicleNumber": "AP 33 GH 5678",
+      "amenities": [
+        "WiFi",
+        "Water Bottle"
+      ],
+      "seats": [
+        {
+          "number": "S1",
+          "status": "available"
+        },
+        {
+          "number": "S2",
+          "status": "available"
+        },
+        {
+          "number": "S3",
+          "status": "booked"
+        },
+        {
+          "number": "S4",
+          "status": "available"
+        },
+        {
+          "number": "S5",
+          "status": "available"
+        },
+        {
+          "number": "S6",
+          "status": "available"
+        },
+        {
+          "number": "S7",
+          "status": "available"
+        },
+        {
+          "number": "S8",
+          "status": "available"
+        },
+        {
+          "number": "S9",
+          "status": "available"
+        },
+        {
+          "number": "S10",
+          "status": "booked"
+        },
+        {
+          "number": "S11",
+          "status": "available"
+        },
+        {
+          "number": "S12",
+          "status": "available"
+        },
+        {
+          "number": "S13",
+          "status": "booked"
+        },
+        {
+          "number": "S14",
+          "status": "available"
+        },
+        {
+          "number": "S15",
+          "status": "available"
+        },
+        {
+          "number": "S16",
+          "status": "available"
+        },
+        {
+          "number": "S17",
+          "status": "booked"
+        },
+        {
+          "number": "S18",
+          "status": "available"
+        },
+        {
+          "number": "S19",
+          "status": "available"
+        },
+        {
+          "number": "S20",
+          "status": "available"
+        },
+        {
+          "number": "S21",
+          "status": "available"
+        },
+        {
+          "number": "S22",
+          "status": "booked"
+        },
+        {
+          "number": "S23",
+          "status": "available"
+        },
+        {
+          "number": "S24",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "busName": "Tirupati Link",
+      "type": "Non-AC Seater",
+      "travels": "SRS Travels",
+      "rating": 3.9,
+      "departure": "20:00",
+      "arrival": "06:00",
+      "from": "Tirupathi",
+      "to": "Hyderabad",
+      "duration": "10h 00m",
+      "price": 680,
+      "vehicleNumber": "AP 16 IJ 9012",
+      "amenities": [
+        "Reading Light"
+      ],
+      "seats": [
+        {
+          "number": "1A",
+          "status": "available"
+        },
+        {
+          "number": "1B",
+          "status": "available"
+        },
+        {
+          "number": "1C",
+          "status": "booked"
+        },
+        {
+          "number": "1D",
+          "status": "available"
+        },
+        {
+          "number": "2A",
+          "status": "available"
+        },
+        {
+          "number": "2B",
+          "status": "booked"
+        },
+        {
+          "number": "2C",
+          "status": "available"
+        },
+        {
+          "number": "2D",
+          "status": "available"
+        },
+        {
+          "number": "3A",
+          "status": "available"
+        },
+        {
+          "number": "3B",
+          "status": "available"
+        },
+        {
+          "number": "3C",
+          "status": "booked"
+        },
+        {
+          "number": "3D",
+          "status": "available"
+        },
+        {
+          "number": "4A",
+          "status": "available"
+        },
+        {
+          "number": "4B",
+          "status": "available"
+        },
+        {
+          "number": "4C",
+          "status": "booked"
+        },
+        {
+          "number": "4D",
+          "status": "available"
+        },
+        {
+          "number": "5A",
+          "status": "available"
+        },
+        {
+          "number": "5B",
+          "status": "available"
+        },
+        {
+          "number": "5C",
+          "status": "available"
+        },
+        {
+          "number": "5D",
+          "status": "available"
+        },
+        {
+          "number": "6A",
+          "status": "booked"
+        },
+        {
+          "number": "6B",
+          "status": "available"
+        },
+        {
+          "number": "6C",
+          "status": "available"
+        },
+        {
+          "number": "6D",
+          "status": "booked"
+        }
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "c29c",
+      "busName": "Rajdhani Deluxe",
+      "travels": "SRS Travels",
+      "type": "AC Sleeper",
+      "from": "Hyderabad",
+      "to": "Bangalore",
+      "date": "wed aug 13 2025",
+      "departure": "22:00",
+      "arrival": "06:00",
+      "seats": [
+        "S3"
+      ],
+      "duration": "8h 00m",
+      "mobile": "",
+      "email": "",
+      "passenger": {
+        "username": "anjali"
+      }
+    },
+    {
+      "id": "9415",
+      "busName": "Rajdhani Deluxe",
+      "travels": "SRS Travels",
+      "type": "AC Sleeper",
+      "from": "Hyderabad",
+      "to": "Bangalore",
+      "date": "wed aug 13 2025",
+      "departure": "22:00",
+      "arrival": "06:00",
+      "seats": [
+        "S3"
+      ],
+      "duration": "8h 00m",
+      "mobile": "6302525995",
+      "email": "kalyanmaharajulu@gmail.com",
+      "passenger": {
+        "username": "anjali"
+      }
+    },
+    {
+      "id": "1fd0",
+      "busName": "Rajdhani Deluxe",
+      "travels": "SRS Travels",
+      "type": "AC Sleeper",
+      "from": "Hyderabad",
+      "to": "Bangalore",
+      "date": "wed aug 13 2025",
+      "departure": "22:00",
+      "arrival": "06:00",
+      "seats": [
+        "S3"
+      ],
+      "duration": "8h 00m",
+      "mobile": "6302525995",
+      "email": "kalyanmaharajulu@gmail.com",
+      "passenger": {
+        "username": "anjali"
+      }
+    },
+    {
+      "id": "4aa4",
+      "busName": "Rajdhani Deluxe",
+      "travels": "SRS Travels",
+      "type": "AC Sleeper",
+      "from": "Hyderabad",
+      "to": "Bangalore",
+      "date": "thu aug 14 2025",
+      "departure": "22:00",
+      "arrival": "06:00",
+      "seats": [
+        "S5",
+        "S13"
+      ],
+      "duration": "8h 00m",
+      "mobile": "6302525995",
+      "email": "anjali@gmail.com",
+      "passenger": {
+        "username": "anjali"
+      }
+    }
+  ]
+}
